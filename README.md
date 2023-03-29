@@ -1,7 +1,7 @@
 # Getting Started with React Tic Tac Toe Application
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-It is a simple react application which simulates the functionality of a Tic Tac Toe game.
+It is a simple react application which simulates the functionality of a Tic Tac Toe game. The user can also traverse and go back to a particular step and then continue the game from there.
 
 ## Available Scripts
 
